@@ -1,0 +1,80 @@
+8899 1970 winter 65 1500 Kaitei Shounen Marine
+8899 1970 spring 65 1500 Kaitei Shounen Marine
+8899 1970 summer 65 1500 Kaitei Shounen Marine
+8899 1970 fall 65 1500 Kaitei Shounen Marine
+8899 1971 winter 65 1500 Kaitei Shounen Marine
+8899 1971 spring 65 1500 Kaitei Shounen Marine
+8899 1971 summer 65 1500 Kaitei Shounen Marine
+1537 1971 fall 22 1530 Genshi Shounen Ryuu
+22997 1971 fall 25 1500 Shin Skyers 5
+1537 1972 winter 22 1530 Genshi Shounen Ryuu
+22997 1972 winter 25 1500 Shin Skyers 5
+5311 1972 fall 26 1440 Astroganger
+2389 1972 fall 105 1560 Kagaku Ninja-tai Gatchaman
+5311 1973 winter 26 1440 Astroganger
+2253 1973 winter 92 1500 Mazinger Z
+2389 1973 winter 105 1560 Kagaku Ninja-tai Gatchaman
+1666 1973 winter 39 1500 Babel Nisei
+1666 1973 spring 39 1500 Babel Nisei
+2253 1973 spring 92 1500 Mazinger Z
+2389 1973 spring 105 1560 Kagaku Ninja-tai Gatchaman
+3846 1973 spring 26 1500 Microid S
+2253 1973 summer 92 1500 Mazinger Z
+1666 1973 summer 39 1500 Babel Nisei
+2389 1973 summer 105 1560 Kagaku Ninja-tai Gatchaman
+3846 1973 summer 26 1500 Microid S
+1661 1973 fall 25 1520 Cutey Honey
+2253 1973 fall 92 1500 Mazinger Z
+2389 1973 fall 105 1560 Kagaku Ninja-tai Gatchaman
+4810 1973 fall 35 1520 Shinzou Ningen Casshern
+9520 1973 fall 38 1440 Zero Tester
+3630 1973 fall 25 1490 Miracle Shoujo Limit-chan
+4810 1974 winter 35 1520 Shinzou Ningen Casshern
+1661 1974 winter 25 1520 Cutey Honey
+2253 1974 winter 92 1500 Mazinger Z
+2389 1974 winter 105 1560 Kagaku Ninja-tai Gatchaman
+9520 1974 winter 38 1440 Zero Tester
+3630 1974 winter 25 1490 Miracle Shoujo Limit-chan
+3834 1974 spring 26 1260 Hoshi no Ko Chobin
+2389 1974 spring 105 1560 Kagaku Ninja-tai Gatchaman
+3579 1974 spring 51 1500 Getter Robo
+2253 1974 spring 92 1500 Mazinger Z
+4810 1974 spring 35 1520 Shinzou Ningen Casshern
+6383 1974 spring 65 410 Chargeman Ken!
+20233 1974 spring 60 300 Tonari no Tamageta-kun
+9520 1974 spring 38 1440 Zero Tester
+11213 1974 spring 260 300 Hoshi no Ko Poron
+3834 1974 summer 26 1260 Hoshi no Ko Chobin
+2389 1974 summer 105 1560 Kagaku Ninja-tai Gatchaman
+3579 1974 summer 51 1500 Getter Robo
+2253 1974 summer 92 1500 Mazinger Z
+20233 1974 summer 60 300 Tonari no Tamageta-kun
+11213 1974 summer 260 300 Hoshi no Ko Poron
+9522 1974 summer 28 1440 Zero Tester: Chikyuu wo Mamore!
+1650 1974 fall 26 1500 Uchuu Senkan Yamato
+4808 1974 fall 26 1520 Hurricane Polymar
+5658 1974 fall 56 1500 Great Mazinger
+3579 1974 fall 51 1500 Getter Robo
+20233 1974 fall 60 300 Tonari no Tamageta-kun
+9522 1974 fall 28 1440 Zero Tester: Chikyuu wo Mamore!
+11213 1974 fall 260 300 Hoshi no Ko Poron
+1650 1975 winter 26 1500 Uchuu Senkan Yamato
+4808 1975 winter 26 1520 Hurricane Polymar
+3579 1975 winter 51 1500 Getter Robo
+5658 1975 winter 56 1500 Great Mazinger
+20233 1975 winter 60 300 Tonari no Tamageta-kun
+11213 1975 winter 260 300 Hoshi no Ko Poron
+2128 1975 spring 50 1460 Yuusha Raideen
+4486 1975 spring 39 1460 Getter Robo G
+3579 1975 spring 51 1500 Getter Robo
+5658 1975 spring 56 1500 Great Mazinger
+20233 1975 spring 60 300 Tonari no Tamageta-kun
+4486 1975 summer 39 1460 Getter Robo G
+2128 1975 summer 50 1460 Yuusha Raideen
+5658 1975 summer 56 1500 Great Mazinger
+1458 1975 summer 26 1500 Uchuu no Kishi Tekkaman
+1985 1975 fall 74 1500 UFO Robo Grendizer
+2128 1975 fall 50 1460 Yuusha Raideen
+1458 1975 fall 26 1500 Uchuu no Kishi Tekkaman
+4486 1975 fall 39 1460 Getter Robo G
+4198 1975 fall 46 1320 Koutetsu Jeeg

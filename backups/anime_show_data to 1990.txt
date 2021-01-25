@@ -1,0 +1,648 @@
+8899 1970 winter 65 1500 Kaitei Shounen Marine
+8899 1970 spring 65 1500 Kaitei Shounen Marine
+8899 1970 summer 65 1500 Kaitei Shounen Marine
+8899 1970 fall 65 1500 Kaitei Shounen Marine
+8899 1971 winter 65 1500 Kaitei Shounen Marine
+8899 1971 spring 65 1500 Kaitei Shounen Marine
+8899 1971 summer 65 1500 Kaitei Shounen Marine
+1537 1971 fall 22 1530 Genshi Shounen Ryuu
+22997 1971 fall 25 1500 Shin Skyers 5
+1537 1972 winter 22 1530 Genshi Shounen Ryuu
+22997 1972 winter 25 1500 Shin Skyers 5
+5311 1972 fall 26 1440 Astroganger
+2389 1972 fall 105 1560 Kagaku Ninja-tai Gatchaman
+5311 1973 winter 26 1440 Astroganger
+2253 1973 winter 92 1500 Mazinger Z
+2389 1973 winter 105 1560 Kagaku Ninja-tai Gatchaman
+1666 1973 winter 39 1500 Babel Nisei
+1666 1973 spring 39 1500 Babel Nisei
+2253 1973 spring 92 1500 Mazinger Z
+2389 1973 spring 105 1560 Kagaku Ninja-tai Gatchaman
+3846 1973 spring 26 1500 Microid S
+2253 1973 summer 92 1500 Mazinger Z
+1666 1973 summer 39 1500 Babel Nisei
+2389 1973 summer 105 1560 Kagaku Ninja-tai Gatchaman
+3846 1973 summer 26 1500 Microid S
+1661 1973 fall 25 1520 Cutey Honey
+2253 1973 fall 92 1500 Mazinger Z
+2389 1973 fall 105 1560 Kagaku Ninja-tai Gatchaman
+4810 1973 fall 35 1520 Shinzou Ningen Casshern
+9520 1973 fall 38 1440 Zero Tester
+3630 1973 fall 25 1490 Miracle Shoujo Limit-chan
+4810 1974 winter 35 1520 Shinzou Ningen Casshern
+1661 1974 winter 25 1520 Cutey Honey
+2253 1974 winter 92 1500 Mazinger Z
+2389 1974 winter 105 1560 Kagaku Ninja-tai Gatchaman
+9520 1974 winter 38 1440 Zero Tester
+3630 1974 winter 25 1490 Miracle Shoujo Limit-chan
+3834 1974 spring 26 1260 Hoshi no Ko Chobin
+2389 1974 spring 105 1560 Kagaku Ninja-tai Gatchaman
+3579 1974 spring 51 1500 Getter Robo
+2253 1974 spring 92 1500 Mazinger Z
+4810 1974 spring 35 1520 Shinzou Ningen Casshern
+6383 1974 spring 65 410 Chargeman Ken!
+20233 1974 spring 60 300 Tonari no Tamageta-kun
+9520 1974 spring 38 1440 Zero Tester
+11213 1974 spring 260 300 Hoshi no Ko Poron
+3834 1974 summer 26 1260 Hoshi no Ko Chobin
+2389 1974 summer 105 1560 Kagaku Ninja-tai Gatchaman
+3579 1974 summer 51 1500 Getter Robo
+2253 1974 summer 92 1500 Mazinger Z
+20233 1974 summer 60 300 Tonari no Tamageta-kun
+11213 1974 summer 260 300 Hoshi no Ko Poron
+9522 1974 summer 28 1440 Zero Tester: Chikyuu wo Mamore!
+1650 1974 fall 26 1500 Uchuu Senkan Yamato
+4808 1974 fall 26 1520 Hurricane Polymar
+5658 1974 fall 56 1500 Great Mazinger
+3579 1974 fall 51 1500 Getter Robo
+20233 1974 fall 60 300 Tonari no Tamageta-kun
+9522 1974 fall 28 1440 Zero Tester: Chikyuu wo Mamore!
+11213 1974 fall 260 300 Hoshi no Ko Poron
+1650 1975 winter 26 1500 Uchuu Senkan Yamato
+4808 1975 winter 26 1520 Hurricane Polymar
+3579 1975 winter 51 1500 Getter Robo
+5658 1975 winter 56 1500 Great Mazinger
+20233 1975 winter 60 300 Tonari no Tamageta-kun
+11213 1975 winter 260 300 Hoshi no Ko Poron
+2128 1975 spring 50 1460 Yuusha Raideen
+4486 1975 spring 39 1460 Getter Robo G
+3579 1975 spring 51 1500 Getter Robo
+5658 1975 spring 56 1500 Great Mazinger
+20233 1975 spring 60 300 Tonari no Tamageta-kun
+4486 1975 summer 39 1460 Getter Robo G
+2128 1975 summer 50 1460 Yuusha Raideen
+5658 1975 summer 56 1500 Great Mazinger
+1458 1975 summer 26 1500 Uchuu no Kishi Tekkaman
+1985 1975 fall 74 1500 UFO Robo Grendizer
+2128 1975 fall 50 1460 Yuusha Raideen
+1458 1975 fall 26 1500 Uchuu no Kishi Tekkaman
+4486 1975 fall 39 1460 Getter Robo G
+4198 1975 fall 46 1320 Koutetsu Jeeg
+1985 1976 winter 74 1500 UFO Robo Grendizer
+2128 1976 winter 50 1460 Yuusha Raideen
+4486 1976 winter 39 1460 Getter Robo G
+4198 1976 winter 46 1320 Koutetsu Jeeg
+1985 1976 spring 74 1500 UFO Robo Grendizer
+3361 1976 spring 26 1451 UFO Senshi Dai Apolon
+7551 1976 spring 36 1500 Gowapper 5 Gordam
+4198 1976 spring 46 1320 Koutetsu Jeeg
+1068 1976 spring 54 1500 Chou Denji Robo Combattler V
+956 1976 spring 44 1479 Daikuu Maryuu Gaiking
+1985 1976 summer 74 1500 UFO Robo Grendizer
+5131 1976 summer 36 1500 Groizer X
+5829 1976 summer 38 1400 Blocker Gundan IV Machine Blaster
+3361 1976 summer 26 1451 UFO Senshi Dai Apolon
+7551 1976 summer 36 1500 Gowapper 5 Gordam
+1068 1976 summer 54 1500 Chou Denji Robo Combattler V
+4198 1976 summer 46 1320 Koutetsu Jeeg
+956 1976 summer 44 1479 Daikuu Maryuu Gaiking
+1985 1976 fall 74 1500 UFO Robo Grendizer
+5131 1976 fall 36 1500 Groizer X
+9978 1976 fall 25 1440 Kyouryuu Tankentai Born Free
+7551 1976 fall 36 1500 Gowapper 5 Gordam
+5829 1976 fall 38 1400 Blocker Gundan IV Machine Blaster
+1068 1976 fall 54 1500 Chou Denji Robo Combattler V
+956 1976 fall 44 1479 Daikuu Maryuu Gaiking
+3932 1976 fall 39 1440 Magnerobo Ga-Keen
+10815 1976 fall 21 1451 UFO Senshi Dai Apolon 2
+1985 1977 winter 74 1500 UFO Robo Grendizer
+5829 1977 winter 38 1400 Blocker Gundan IV Machine Blaster
+9978 1977 winter 25 1440 Kyouryuu Tankentai Born Free
+5131 1977 winter 36 1500 Groizer X
+1068 1977 winter 54 1500 Chou Denji Robo Combattler V
+3932 1977 winter 39 1440 Magnerobo Ga-Keen
+6087 1977 winter 27 1380 Jetter Mars
+10815 1977 winter 21 1451 UFO Senshi Dai Apolon 2
+8375 1977 spring 26 1500 Chogattai Majutsu Robot Ginguiser
+3294 1977 spring 35 1380 Gasshin Sentai Mechander Robo
+6087 1977 spring 27 1380 Jetter Mars
+3932 1977 spring 39 1440 Magnerobo Ga-Keen
+1068 1977 spring 54 1500 Chou Denji Robo Combattler V
+1986 1977 spring 56 1500 Wakusei Robo Danguard Ace
+9781 1977 spring 20 1800 Hyouga Senshi Gaislugger
+1069 1977 summer 40 1420 Chou Denji Machine Voltes V
+6970 1977 summer 31 1500 Choujin Sentai Baratack
+3294 1977 summer 35 1380 Gasshin Sentai Mechander Robo
+8375 1977 summer 26 1500 Chogattai Majutsu Robot Ginguiser
+6087 1977 summer 27 1380 Jetter Mars
+1986 1977 summer 56 1500 Wakusei Robo Danguard Ace
+9781 1977 summer 20 1800 Hyouga Senshi Gaislugger
+3294 1977 fall 35 1380 Gasshin Sentai Mechander Robo
+6970 1977 fall 31 1500 Choujin Sentai Baratack
+1069 1977 fall 40 1420 Chou Denji Machine Voltes V
+9881 1977 fall 25 1500 Chou Supercar Gattiger
+2200 1977 fall 23 1485 Muteki Choujin Zanbot 3
+1986 1977 fall 56 1500 Wakusei Robo Danguard Ace
+1069 1978 winter 40 1420 Chou Denji Machine Voltes V
+6970 1978 winter 31 1500 Choujin Sentai Baratack
+9881 1978 winter 25 1500 Chou Supercar Gattiger
+2200 1978 winter 23 1485 Muteki Choujin Zanbot 3
+1986 1978 winter 56 1500 Wakusei Robo Danguard Ace
+2816 1978 spring 44 1440 Toushou Daimos
+302 1978 spring 26 1740 Mirai Shounen Conan
+1000 1978 spring 42 1500 Uchuu Kaizoku Captain Herlock
+1236 1978 spring 73 1500 SF Saiyuuki Starzinger
+302 1978 summer 26 1740 Mirai Shounen Conan
+2816 1978 summer 44 1440 Toushou Daimos
+1000 1978 summer 42 1500 Uchuu Kaizoku Captain Herlock
+10224 1978 summer 26 1450 Uchuu Majin Daikengou
+3305 1978 summer 40 1500 Muteki Koujin Daitarn 3
+1236 1978 summer 73 1500 SF Saiyuuki Starzinger
+1000 1978 fall 42 1500 Uchuu Kaizoku Captain Herlock
+1491 1978 fall 113 1500 Ginga Tetsudou 999
+10224 1978 fall 26 1450 Uchuu Majin Daikengou
+6374 1978 fall 52 1418 Kagaku Ninja-tai Gatchaman II
+1651 1978 fall 26 1440 Uchuu Senkan Yamato 2
+3305 1978 fall 40 1500 Muteki Koujin Daitarn 3
+2816 1978 fall 44 1440 Toushou Daimos
+1236 1978 fall 73 1500 SF Saiyuuki Starzinger
+2561 1978 fall 52 1380 Captain Future
+4690 1979 spring 50 1470 Cyborg 009 (1979)
+80 1979 spring 43 1500 Mobile Suit Gundam
+2471 1979 spring 1787 660 Doraemon (1979)
+1491 1979 spring 113 1500 Ginga Tetsudou 999
+1236 1979 spring 73 1500 SF Saiyuuki Starzinger
+2561 1979 spring 52 1380 Captain Future
+6889 1979 spring 52 1440 Time Bokan Series: Zenderman
+3444 1979 spring 50 1500 TheUltraman
+6374 1979 spring 52 1418 Kagaku Ninja-tai Gatchaman II
+4411 1979 spring 47 1470 Mirai Robo Daltanias
+80 1979 summer 43 1500 Mobile Suit Gundam
+2471 1979 summer 1787 660 Doraemon (1979)
+1491 1979 summer 113 1500 Ginga Tetsudou 999
+6889 1979 summer 52 1440 Time Bokan Series: Zenderman
+4411 1979 summer 47 1470 Mirai Robo Daltanias
+4690 1979 summer 50 1470 Cyborg 009 (1979)
+2561 1979 summer 52 1380 Captain Future
+6374 1979 summer 52 1418 Kagaku Ninja-tai Gatchaman II
+3444 1979 summer 50 1500 TheUltraman
+1236 1979 summer 73 1500 SF Saiyuuki Starzinger
+10965 1979 summer 34 1440 Kagaku Bouken-tai Tansar 5
+80 1979 fall 43 1500 Mobile Suit Gundam
+1491 1979 fall 113 1500 Ginga Tetsudou 999
+2471 1979 fall 1787 660 Doraemon (1979)
+5022 1979 fall 73 1500 Toushi Gordian
+6889 1979 fall 52 1440 Time Bokan Series: Zenderman
+2561 1979 fall 52 1380 Captain Future
+4690 1979 fall 50 1470 Cyborg 009 (1979)
+4411 1979 fall 47 1470 Mirai Robo Daltanias
+3444 1979 fall 50 1500 TheUltraman
+5763 1979 fall 24 1590 Uchuu Kuubo Blue Noah
+6375 1979 fall 48 1460 Kagaku Ninja-tai Gatchaman F
+10965 1979 fall 34 1440 Kagaku Bouken-tai Tansar 5
+1651 1979 winter 26 1440 Uchuu Senkan Yamato 2
+1000 1979 winter 42 1500 Uchuu Kaizoku Captain Herlock
+1491 1979 winter 113 1500 Ginga Tetsudou 999
+10224 1979 winter 26 1450 Uchuu Majin Daikengou
+6889 1979 winter 52 1440 Time Bokan Series: Zenderman
+2561 1979 winter 52 1380 Captain Future
+3305 1979 winter 40 1500 Muteki Koujin Daitarn 3
+1236 1979 winter 73 1500 SF Saiyuuki Starzinger
+6374 1979 winter 52 1418 Kagaku Ninja-tai Gatchaman II
+1491 1980 spring 113 1500 Ginga Tetsudou 999
+2471 1980 spring 1787 660 Doraemon (1979)
+8553 1980 spring 53 1500 Time Bokan Series: Time Patroltai Otasukeman
+4933 1980 spring 26 1500 Muu no Hakugei
+5022 1980 spring 73 1500 Toushi Gordian
+4536 1980 spring 50 1440 Muteki Robo Trider G7
+930 1980 spring 39 1500 Densetsu Kyojin Ideon
+6375 1980 spring 48 1460 Kagaku Ninja-tai Gatchaman F
+1491 1980 summer 113 1500 Ginga Tetsudou 999
+2471 1980 summer 1787 660 Doraemon (1979)
+8553 1980 summer 53 1500 Time Bokan Series: Time Patroltai Otasukeman
+4933 1980 summer 26 1500 Muu no Hakugei
+5022 1980 summer 73 1500 Toushi Gordian
+4536 1980 summer 50 1440 Muteki Robo Trider G7
+930 1980 summer 39 1500 Densetsu Kyojin Ideon
+6375 1980 summer 48 1460 Kagaku Ninja-tai Gatchaman F
+1737 1980 summer 34 1500 Uchuu Senshi Baldios
+2471 1980 fall 1787 660 Doraemon (1979)
+1491 1980 fall 113 1500 Ginga Tetsudou 999
+8553 1980 fall 53 1500 Time Bokan Series: Time Patroltai Otasukeman
+5022 1980 fall 73 1500 Toushi Gordian
+5833 1980 fall 56 1500 Tondemo Senshi Muteking
+4536 1980 fall 50 1440 Muteki Robo Trider G7
+1652 1980 fall 25 1380 Uchuu Senkan Yamato III
+3044 1980 fall 52 1440 Tetsuwan Atom (1980)
+930 1980 fall 39 1500 Densetsu Kyojin Ideon
+1737 1980 fall 34 1500 Uchuu Senshi Baldios
+1491 1980 winter 113 1500 Ginga Tetsudou 999
+2471 1980 winter 1787 660 Doraemon (1979)
+8553 1980 winter 53 1500 Time Bokan Series: Time Patroltai Otasukeman
+5022 1980 winter 73 1500 Toushi Gordian
+4536 1980 winter 50 1440 Muteki Robo Trider G7
+4411 1980 winter 47 1470 Mirai Robo Daltanias
+4690 1980 winter 50 1470 Cyborg 009 (1979)
+6375 1980 winter 48 1460 Kagaku Ninja-tai Gatchaman F
+5763 1980 winter 24 1590 Uchuu Kuubo Blue Noah
+3444 1980 winter 50 1500 TheUltraman
+10965 1980 winter 34 1440 Kagaku Bouken-tai Tansar 5
+2471 1981 spring 1787 660 Doraemon (1979)
+1548 1981 spring 42 1484 Shin Taketori Monogatari: 1000-nen Joou
+3044 1981 spring 52 1440 Tetsuwan Atom (1980)
+2222 1981 spring 243 1500 Dr. Slump: Arale-chan
+7106 1981 spring 52 1500 Ougon Senshi Gold Lightan
+5833 1981 spring 56 1500 Tondemo Senshi Muteking
+1448 1981 spring 52 1400 Hyakujuu-Ou GoLion
+6727 1981 spring 28 1500 Mechakko Dotakon
+4574 1981 spring 50 1460 Saikyou Robot Daiouja
+2471 1981 summer 1787 660 Doraemon (1979)
+2510 1981 summer 26 1470 Sengoku Majin Goushougun
+5833 1981 summer 56 1500 Tondemo Senshi Muteking
+7106 1981 summer 52 1500 Ougon Senshi Gold Lightan
+2222 1981 summer 243 1500 Dr. Slump: Arale-chan
+2724 1981 summer 2 300 Daicon Opening Animations
+1548 1981 summer 42 1484 Shin Taketori Monogatari: 1000-nen Joou
+3044 1981 summer 52 1440 Tetsuwan Atom (1980)
+1448 1981 summer 52 1400 Hyakujuu-Ou GoLion
+6727 1981 summer 28 1500 Mechakko Dotakon
+4574 1981 summer 50 1460 Saikyou Robot Daiouja
+1293 1981 fall 195 1540 Urusei Yatsura
+2471 1981 fall 1787 660 Doraemon (1979)
+2882 1981 fall 26 1440 Anime Oyako Gekijou
+4240 1981 fall 39 1410 Ginga Senpuu Braiger
+28369 1981 fall 2 1450 Dr. Slump: Arale-chan Specials
+7106 1981 fall 52 1500 Ougon Senshi Gold Lightan
+3399 1981 fall 64 1457 Rokushin Gattai GodMars
+1448 1981 fall 52 1400 Hyakujuu-Ou GoLion
+2222 1981 fall 243 1500 Dr. Slump: Arale-chan
+3044 1981 fall 52 1440 Tetsuwan Atom (1980)
+2510 1981 fall 26 1470 Sengoku Majin Goushougun
+2331 1981 fall 26 1500 Uchuu Densetsu Ulysses 31
+2257 1981 fall 75 1400 Taiyou no Kiba Dagram
+1548 1981 fall 42 1484 Shin Taketori Monogatari: 1000-nen Joou
+4574 1981 fall 50 1460 Saikyou Robot Daiouja
+2471 1981 winter 1787 660 Doraemon (1979)
+1491 1981 winter 113 1500 Ginga Tetsudou 999
+5833 1981 winter 56 1500 Tondemo Senshi Muteking
+5022 1981 winter 73 1500 Toushi Gordian
+1652 1981 winter 25 1380 Uchuu Senkan Yamato III
+3044 1981 winter 52 1440 Tetsuwan Atom (1980)
+4574 1981 winter 50 1460 Saikyou Robot Daiouja
+1293 1982 spring 195 1540 Urusei Yatsura
+2331 1982 spring 26 1500 Uchuu Densetsu Ulysses 31
+2254 1982 spring 50 1460 Sentou Mecha Xabungle
+2257 1982 spring 75 1400 Taiyou no Kiba Dagram
+2471 1982 spring 1787 660 Doraemon (1979)
+2222 1982 spring 243 1500 Dr. Slump: Arale-chan
+3880 1982 spring 24 1500 Makyou Densetsu Acrobunch
+3075 1982 spring 52 1440 Tondera House no Daibouken
+3969 1982 spring 18 1520 Kagaku Kyuujo-tai TechnoVoyager
+8011 1982 spring 58 1440 Time Bokan Series: Gyakuten Ippatsuman
+3609 1982 spring 52 1520 Kikou Kantai Dairugger XV
+4240 1982 spring 39 1410 Ginga Senpuu Braiger
+3399 1982 spring 64 1457 Rokushin Gattai GodMars
+1293 1982 summer 195 1540 Urusei Yatsura
+1279 1982 summer 39 1620 Taiyou no Ko Esteban
+2471 1982 summer 1787 660 Doraemon (1979)
+3880 1982 summer 24 1500 Makyou Densetsu Acrobunch
+3075 1982 summer 52 1440 Tondera House no Daibouken
+8011 1982 summer 58 1440 Time Bokan Series: Gyakuten Ippatsuman
+3399 1982 summer 64 1457 Rokushin Gattai GodMars
+3969 1982 summer 18 1520 Kagaku Kyuujo-tai TechnoVoyager
+2331 1982 summer 26 1500 Uchuu Densetsu Ulysses 31
+2222 1982 summer 243 1500 Dr. Slump: Arale-chan
+3609 1982 summer 52 1520 Kikou Kantai Dairugger XV
+2257 1982 summer 75 1400 Taiyou no Kiba Dagram
+2254 1982 summer 50 1460 Sentou Mecha Xabungle
+2451 1982 fall 31 1440 Space Cobra
+1088 1982 fall 36 1520 Macross
+1279 1982 fall 39 1620 Taiyou no Ko Esteban
+1293 1982 fall 195 1540 Urusei Yatsura
+2471 1982 fall 1787 660 Doraemon (1979)
+3075 1982 fall 52 1440 Tondera House no Daibouken
+8285 1982 fall 22 1500 Ai no Senshi Rainbowman
+3399 1982 fall 64 1457 Rokushin Gattai GodMars
+8011 1982 fall 58 1440 Time Bokan Series: Gyakuten Ippatsuman
+3880 1982 fall 24 1500 Makyou Densetsu Acrobunch
+3609 1982 fall 52 1520 Kikou Kantai Dairugger XV
+2222 1982 fall 243 1500 Dr. Slump: Arale-chan
+2203 1982 fall 22 1500 Waga Seishun no Arcadia: Mugen Kidou SSX
+2254 1982 fall 50 1460 Sentou Mecha Xabungle
+2257 1982 fall 75 1400 Taiyou no Kiba Dagram
+2331 1982 fall 26 1500 Uchuu Densetsu Ulysses 31
+7956 1982 fall 39 1440 Cybot Robocchi
+1293 1982 winter 195 1540 Urusei Yatsura
+2882 1982 winter 26 1440 Anime Oyako Gekijou
+4240 1982 winter 39 1410 Ginga Senpuu Braiger
+3399 1982 winter 64 1457 Rokushin Gattai GodMars
+7106 1982 winter 52 1500 Ougon Senshi Gold Lightan
+8011 1982 winter 58 1440 Time Bokan Series: Gyakuten Ippatsuman
+2331 1982 winter 26 1500 Uchuu Densetsu Ulysses 31
+1448 1982 winter 52 1400 Hyakujuu-Ou GoLion
+2471 1982 winter 1787 660 Doraemon (1979)
+2222 1982 winter 243 1500 Dr. Slump: Arale-chan
+1548 1982 winter 42 1484 Shin Taketori Monogatari: 1000-nen Joou
+2257 1982 winter 75 1400 Taiyou no Kiba Dagram
+2254 1982 winter 50 1460 Sentou Mecha Xabungle
+2933 1983 spring 50 1423 Mirai Keisatsu Urashiman
+1088 1983 spring 36 1520 Macross
+2582 1983 spring 52 1500 Soukou Kihei Votoms
+6452 1983 spring 53 1500 Akuu Daisakusen Srungle
+3436 1983 spring 127 1500 Meme Iroiro Yume no Tabi
+3936 1983 spring 26 1440 Personal Computer Travel Tanteidan
+2222 1983 spring 243 1500 Dr. Slump: Arale-chan
+1279 1983 spring 39 1620 Taiyou no Ko Esteban
+929 1983 spring 49 1440 Seisenshi Dunbine
+2451 1983 spring 31 1440 Space Cobra
+2471 1983 spring 1787 660 Doraemon (1979)
+1293 1983 spring 195 1540 Urusei Yatsura
+7956 1983 spring 39 1440 Cybot Robocchi
+1873 1983 summer 37 1500 Plawres Sanshirou
+1293 1983 summer 195 1540 Urusei Yatsura
+2582 1983 summer 52 1500 Soukou Kihei Votoms
+2471 1983 summer 1787 660 Doraemon (1979)
+3936 1983 summer 26 1440 Personal Computer Travel Tanteidan
+3436 1983 summer 127 1500 Meme Iroiro Yume no Tabi
+6428 1983 summer 26 1460 Psychoarmor Govarian
+6452 1983 summer 53 1500 Akuu Daisakusen Srungle
+929 1983 summer 49 1440 Seisenshi Dunbine
+2222 1983 summer 243 1500 Dr. Slump: Arale-chan
+2044 1983 summer 52 1440 Mahou no Tenshi Creamy Mami
+2089 1983 summer 35 1500 Choujikuu Seiki Orguss
+2933 1983 summer 50 1423 Mirai Keisatsu Urashiman
+2471 1983 fall 1787 660 Doraemon (1979)
+2582 1983 fall 52 1500 Soukou Kihei Votoms
+1293 1983 fall 195 1540 Urusei Yatsura
+6452 1983 fall 53 1500 Akuu Daisakusen Srungle
+2933 1983 fall 50 1423 Mirai Keisatsu Urashiman
+5143 1983 fall 36 1440 Tokusou Kihei Dorvack
+3436 1983 fall 127 1500 Meme Iroiro Yume no Tabi
+6428 1983 fall 26 1460 Psychoarmor Govarian
+2222 1983 fall 243 1500 Dr. Slump: Arale-chan
+2044 1983 fall 52 1440 Mahou no Tenshi Creamy Mami
+929 1983 fall 49 1440 Seisenshi Dunbine
+2987 1983 fall 46 1500 Ginga Hyouryuu Vifam
+1873 1983 fall 37 1500 Plawres Sanshirou
+3060 1983 fall 4 1800 Dallos
+2089 1983 fall 35 1500 Choujikuu Seiki Orguss
+1088 1983 winter 36 1520 Macross
+2451 1983 winter 31 1440 Space Cobra
+1279 1983 winter 39 1620 Taiyou no Ko Esteban
+2471 1983 winter 1787 660 Doraemon (1979)
+1293 1983 winter 195 1540 Urusei Yatsura
+6452 1983 winter 53 1500 Akuu Daisakusen Srungle
+2933 1983 winter 50 1423 Mirai Keisatsu Urashiman
+3075 1983 winter 52 1440 Tondera House no Daibouken
+8011 1983 winter 58 1440 Time Bokan Series: Gyakuten Ippatsuman
+8285 1983 winter 22 1500 Ai no Senshi Rainbowman
+3609 1983 winter 52 1520 Kikou Kantai Dairugger XV
+2222 1983 winter 243 1500 Dr. Slump: Arale-chan
+929 1983 winter 49 1440 Seisenshi Dunbine
+2257 1983 winter 75 1400 Taiyou no Kiba Dagram
+2203 1983 winter 22 1500 Waga Seishun no Arcadia: Mugen Kidou SSX
+7956 1983 winter 39 1440 Cybot Robocchi
+2471 1984 spring 1787 660 Doraemon (1979)
+1293 1984 spring 195 1540 Urusei Yatsura
+6672 1984 spring 45 1460 Video Senshi Lezarion
+3436 1984 spring 127 1500 Meme Iroiro Yume no Tabi
+5143 1984 spring 36 1440 Tokusou Kihei Dorvack
+2044 1984 spring 52 1440 Mahou no Tenshi Creamy Mami
+2222 1984 spring 243 1500 Dr. Slump: Arale-chan
+2987 1984 spring 46 1500 Ginga Hyouryuu Vifam
+4503 1984 spring 23 1400 Choujikuu Kidan Southern Cross
+3327 1984 spring 26 1500 Giant Gorg
+2598 1984 spring 54 1485 Juusenki L-Gaim
+8799 1984 spring 34 1500 Okawari-Boy Starzan-S
+16303 1984 spring 23 1440 Chikkun Takkun
+2471 1984 summer 1787 660 Doraemon (1979)
+1293 1984 summer 195 1540 Urusei Yatsura
+6672 1984 summer 45 1460 Video Senshi Lezarion
+3436 1984 summer 127 1500 Meme Iroiro Yume no Tabi
+4503 1984 summer 23 1400 Choujikuu Kidan Southern Cross
+2222 1984 summer 243 1500 Dr. Slump: Arale-chan
+2598 1984 summer 54 1485 Juusenki L-Gaim
+2987 1984 summer 46 1500 Ginga Hyouryuu Vifam
+3327 1984 summer 26 1500 Giant Gorg
+11087 1984 summer 2 180 Awake
+8799 1984 summer 34 1500 Okawari-Boy Starzan-S
+16303 1984 summer 23 1440 Chikkun Takkun
+6672 1984 fall 45 1460 Video Senshi Lezarion
+2361 1984 fall 51 1440 Sei Juushi Bismarck
+967 1984 fall 109 1500 Hokuto no Ken
+1293 1984 fall 195 1540 Urusei Yatsura
+2471 1984 fall 1787 660 Doraemon (1979)
+2222 1984 fall 243 1500 Dr. Slump: Arale-chan
+3436 1984 fall 127 1500 Meme Iroiro Yume no Tabi
+8130 1984 fall 13 1380 Mighty Orbots
+5153 1984 fall 25 1450 Kikou Kai Galient
+2598 1984 fall 54 1485 Juusenki L-Gaim
+2769 1984 fall 25 1500 Galactic Patrol Lensman
+9387 1984 fall 2 3000 Ginga Hyouryuu Vifam Recaps
+8853 1984 fall 25 1500 Chouriki Robo Galatt
+2582 1984 winter 52 1500 Soukou Kihei Votoms
+1293 1984 winter 195 1540 Urusei Yatsura
+2471 1984 winter 1787 660 Doraemon (1979)
+6636 1984 winter 22 1398 Chou Kousoku Galvion
+3436 1984 winter 127 1500 Meme Iroiro Yume no Tabi
+5143 1984 winter 36 1440 Tokusou Kihei Dorvack
+2089 1984 winter 35 1500 Choujikuu Seiki Orguss
+2044 1984 winter 52 1440 Mahou no Tenshi Creamy Mami
+2222 1984 winter 243 1500 Dr. Slump: Arale-chan
+2598 1984 winter 54 1485 Juusenki L-Gaim
+1873 1984 winter 37 1500 Plawres Sanshirou
+2987 1984 winter 46 1500 Ginga Hyouryuu Vifam
+8799 1984 winter 34 1500 Okawari-Boy Starzan-S
+967 1985 spring 109 1500 Hokuto no Ken
+2471 1985 spring 1787 660 Doraemon (1979)
+1293 1985 spring 195 1540 Urusei Yatsura
+85 1985 spring 50 1461 Mobile Suit Zeta Gundam
+3436 1985 spring 127 1500 Meme Iroiro Yume no Tabi
+3022 1985 spring 45 1440 Haai Step Jun
+2222 1985 spring 243 1500 Dr. Slump: Arale-chan
+2255 1985 spring 38 1500 Choujuu Kishin Dancougar
+2361 1985 spring 51 1440 Sei Juushi Bismarck
+967 1985 summer 109 1500 Hokuto no Ken
+2255 1985 summer 38 1500 Choujuu Kishin Dancougar
+3022 1985 summer 45 1440 Haai Step Jun
+2361 1985 summer 51 1440 Sei Juushi Bismarck
+3436 1985 summer 127 1500 Meme Iroiro Yume no Tabi
+424 1985 summer 24 1500 Dirty Pair
+1919 1985 summer 11 1950 Urusei Yatsura OVA
+2471 1985 summer 1787 660 Doraemon (1979)
+1293 1985 summer 195 1540 Urusei Yatsura
+85 1985 summer 50 1461 Mobile Suit Zeta Gundam
+2222 1985 summer 243 1500 Dr. Slump: Arale-chan
+5907 1985 summer 3 2400 Mujigen Hunter Fandora
+17599 1985 summer 26 1500 Konpora Kid
+2471 1985 fall 1787 660 Doraemon (1979)
+85 1985 fall 50 1461 Mobile Suit Zeta Gundam
+967 1985 fall 109 1500 Hokuto no Ken
+1293 1985 fall 195 1540 Urusei Yatsura
+3022 1985 fall 45 1440 Haai Step Jun
+2222 1985 fall 243 1500 Dr. Slump: Arale-chan
+424 1985 fall 24 1500 Dirty Pair
+2291 1985 fall 3 1980 Tatakae!! Iczer-1
+10105 1985 fall 2 2700 Bavi Stock
+2255 1985 fall 38 1500 Choujuu Kishin Dancougar
+3079 1985 fall 38 1440 Aoki Ryuusei SPT Layzner
+3059 1985 fall 43 1460 Ninja Senshi Tobikage
+17599 1985 fall 26 1500 Konpora Kid
+2471 1985 winter 1787 660 Doraemon (1979)
+1293 1985 winter 195 1540 Urusei Yatsura
+967 1985 winter 109 1500 Hokuto no Ken
+6672 1985 winter 45 1460 Video Senshi Lezarion
+2769 1985 winter 25 1500 Galactic Patrol Lensman
+3436 1985 winter 127 1500 Meme Iroiro Yume no Tabi
+2222 1985 winter 243 1500 Dr. Slump: Arale-chan
+1935 1985 winter 4 4020 Megazone 23
+5153 1985 winter 25 1450 Kikou Kai Galient
+2598 1985 winter 54 1485 Juusenki L-Gaim
+2361 1985 winter 51 1440 Sei Juushi Bismarck
+32218 1985 winter 2 3000 Choujikuu Seiki Orguss Memorial
+8853 1985 winter 25 1500 Chouriki Robo Galatt
+2471 1986 spring 1787 660 Doraemon (1979)
+967 1986 spring 109 1500 Hokuto no Ken
+4083 1986 spring 26 1320 Wonder Beat Scramble
+3433 1986 spring 32 1460 Go-Q-Choji Ikkiman
+3317 1986 spring 77 1492 Uchuusen Sagittarius
+3079 1986 spring 38 1440 Aoki Ryuusei SPT Layzner
+3059 1986 spring 43 1460 Ninja Senshi Tobikage
+86 1986 spring 47 1460 Mobile Suit Gundam ZZ
+2471 1986 summer 1787 660 Doraemon (1979)
+967 1986 summer 109 1500 Hokuto no Ken
+3317 1986 summer 77 1492 Uchuusen Sagittarius
+4083 1986 summer 26 1320 Wonder Beat Scramble
+3676 1986 summer 47 1460 Machine Robo: Cronos no Dai Gyakushuu
+5755 1986 summer 3 3300 Aoki Ryuusei SPT Layzner OVA
+3433 1986 summer 32 1460 Go-Q-Choji Ikkiman
+86 1986 summer 47 1460 Mobile Suit Gundam ZZ
+2471 1986 fall 1787 660 Doraemon (1979)
+1254 1986 fall 114 1440 Saint Seiya
+967 1986 fall 109 1500 Hokuto no Ken
+3317 1986 fall 77 1492 Uchuusen Sagittarius
+3433 1986 fall 32 1460 Go-Q-Choji Ikkiman
+4083 1986 fall 26 1320 Wonder Beat Scramble
+3676 1986 fall 47 1460 Machine Robo: Cronos no Dai Gyakushuu
+86 1986 fall 47 1460 Mobile Suit Gundam ZZ
+20083 1986 fall 20 1500 Doteraman
+3317 1986 winter 77 1492 Uchuusen Sagittarius
+2222 1986 winter 243 1500 Dr. Slump: Arale-chan
+1293 1986 winter 195 1540 Urusei Yatsura
+967 1986 winter 109 1500 Hokuto no Ken
+85 1986 winter 50 1461 Mobile Suit Zeta Gundam
+2471 1986 winter 1787 660 Doraemon (1979)
+12337 1986 winter 4 3420 Soukou Kihei Votoms Recaps
+10751 1986 winter 3 3600 Kikou Kai Galient OVA
+3079 1986 winter 38 1440 Aoki Ryuusei SPT Layzner
+3059 1986 winter 43 1460 Ninja Senshi Tobikage
+1254 1987 spring 114 1440 Saint Seiya
+3676 1987 spring 47 1460 Machine Robo: Cronos no Dai Gyakushuu
+3317 1987 spring 77 1492 Uchuusen Sagittarius
+2471 1987 spring 1787 660 Doraemon (1979)
+2688 1987 spring 31 1470 Akai Koudan Zillion
+865 1987 spring 48 1440 Kikou Senki Dragonar
+3317 1987 summer 77 1492 Uchuusen Sagittarius
+1254 1987 summer 114 1440 Saint Seiya
+2471 1987 summer 1787 660 Doraemon (1979)
+17167 1987 summer 3 2520 Akai Koudan Zillion Recaps
+1951 1987 summer 3 990 Manie-Manie: Meikyuu Monogatari
+1347 1987 summer 8 2490 Bubblegum Crisis
+865 1987 summer 48 1440 Kikou Senki Dragonar
+498 1987 summer 3 2700 Haja Taisei Dangaiou
+2688 1987 summer 31 1470 Akai Koudan Zillion
+925 1987 summer 35 1400 Transformers: TheHeadmasters
+16131 1987 summer 31 1500 Machine Robo: Butchigiri Battle Hackers
+865 1987 fall 48 1440 Kikou Senki Dragonar
+4200 1987 fall 10 1500 Dirty Pair OVA
+1347 1987 fall 8 2490 Bubblegum Crisis
+2471 1987 fall 1787 660 Doraemon (1979)
+1254 1987 fall 114 1440 Saint Seiya
+2688 1987 fall 31 1470 Akai Koudan Zillion
+925 1987 fall 35 1400 Transformers: TheHeadmasters
+16131 1987 fall 31 1500 Machine Robo: Butchigiri Battle Hackers
+1254 1987 winter 114 1440 Saint Seiya
+967 1987 winter 109 1500 Hokuto no Ken
+2095 1987 winter 3 3222 Salamander
+3676 1987 winter 47 1460 Machine Robo: Cronos no Dai Gyakushuu
+3317 1987 winter 77 1492 Uchuusen Sagittarius
+2471 1987 winter 1787 660 Doraemon (1979)
+1347 1987 winter 8 2490 Bubblegum Crisis
+1803 1987 winter 2 1410 Dirty Pair: Lovely Angels yori Ai wo Komete
+865 1987 winter 48 1440 Kikou Senki Dragonar
+1981 1987 winter 2 1800 Twilight Q
+20083 1987 winter 20 1500 Doteraman
+1254 1988 spring 114 1440 Saint Seiya
+2471 1988 spring 1787 660 Doraemon (1979)
+3837 1988 spring 45 1440 Mashin Eiyuuden Wataru
+1264 1988 spring 39 1420 Yoroiden Samurai Troopers
+1288 1988 spring 7 1800 Kidou Keisatsu Patlabor
+3035 1988 spring 35 1460 Chouon Senshi Borgman
+1151 1988 spring 4 2160 Dominion
+924 1988 spring 43 1440 Transformers: Choujin Master Force
+3837 1988 summer 45 1440 Mashin Eiyuuden Wataru
+1254 1988 summer 114 1440 Saint Seiya
+1347 1988 summer 8 2490 Bubblegum Crisis
+2471 1988 summer 1787 660 Doraemon (1979)
+1264 1988 summer 39 1420 Yoroiden Samurai Troopers
+924 1988 summer 43 1440 Transformers: Choujin Master Force
+3035 1988 summer 35 1460 Chouon Senshi Borgman
+820 1988 fall 110 1560 Ginga Eiyuu Densetsu
+3837 1988 fall 45 1440 Mashin Eiyuuden Wataru
+1254 1988 fall 114 1440 Saint Seiya
+949 1988 fall 6 1800 Top wo Nerae! Gunbuster
+2471 1988 fall 1787 660 Doraemon (1979)
+4318 1988 fall 2 1800 Ryuu Seiki
+3035 1988 fall 35 1460 Chouon Senshi Borgman
+2048 1988 fall 12 1440 Kikou Ryohei Mellowlink
+1347 1988 fall 8 2490 Bubblegum Crisis
+5462 1988 fall 6 120 Top wo Nerae! Kagaku Kouza
+1264 1988 fall 39 1420 Yoroiden Samurai Troopers
+2516 1988 fall 6 1500 Uchuu no Senshi
+1832 1988 fall 4 1500 Meiou Project Zeorymer
+924 1988 fall 43 1440 Transformers: Choujin Master Force
+30029 1988 fall 26 1500 Video Ehonkan Sekai Meisaku Douwa
+820 1988 winter 110 1560 Ginga Eiyuu Densetsu
+1254 1988 winter 114 1440 Saint Seiya
+2471 1988 winter 1787 660 Doraemon (1979)
+2302 1988 winter 3 600 Mobile Suit SD Gundam Mk I
+925 1988 winter 35 1400 Transformers: TheHeadmasters
+5372 1988 winter 3 1800 Seisenshi Dunbine OVA
+820 1989 spring 110 1560 Ginga Eiyuu Densetsu
+2818 1989 spring 41 1460 Madou King Granzort
+926 1989 spring 38 1380 Tatakae! Chou Robot Seimeitai Transformers Victory
+82 1989 spring 6 1640 Mobile Suit Gundam 0080: War in the Pocket
+4119 1989 spring 43 1500 Juushin Liger
+2471 1989 spring 1787 660 Doraemon (1979)
+2696 1989 spring 2 3420 Crusher Joe OVA
+5927 1989 spring 4 1800 Hoshi Neko Fullhouse
+2303 1989 spring 3 600 Mobile Suit SD Gundam Mk II
+2754 1989 spring 3 2220 Cleopatra D.C.
+926 1989 summer 38 1380 Tatakae! Chou Robot Seimeitai Transformers Victory
+4119 1989 summer 43 1500 Juushin Liger
+2818 1989 summer 41 1460 Madou King Granzort
+4639 1989 summer 6 1800 Gosenzo-sama Banbanzai!
+949 1989 summer 6 1800 Top wo Nerae! Gunbuster
+82 1989 summer 6 1640 Mobile Suit Gundam 0080: War in the Pocket
+2471 1989 summer 1787 660 Doraemon (1979)
+1347 1989 summer 8 2490 Bubblegum Crisis
+6016 1989 summer 6 1740 Kyoushoku Soukou Guyver (1989)
+9403 1989 summer 2 1500 Shin Mashin Eiyuuden Wataru Majinzan
+2839 1989 summer 2 1680 Ariel Visual
+1351 1989 summer 6 1800 Angel Cop
+2697 1989 summer 12 1680 Hi-Speed Jecy
+2051 1989 summer 5 1752 Akai Kiba: Blue Sonnet
+28021 1989 summer 2 1800 Ishii Hisaichi no Nanda Kanda Gekijou
+4119 1989 fall 43 1500 Juushin Liger
+2471 1989 fall 1787 660 Doraemon (1979)
+324 1989 fall 47 1500 Kidou Keisatsu Patlabor: On Television
+4014 1989 fall 3 1780 Choujin Locke: Lord Leon
+5629 1989 fall 4 1800 Choujuu Kishin Dancougar: Hakunetsu no Shuushou
+2818 1989 fall 41 1460 Madou King Granzort
+2414 1989 fall 2 1800 Assemble Insert
+926 1989 fall 38 1380 Tatakae! Chou Robot Seimeitai Transformers Victory
+1227 1989 fall 4 3000 Shuten Douji
+2064 1989 fall 3 3030 Gall Force: Chikyuu Shou
+23829 1989 fall 24 300 Komatsu Sakyo Anime Gekijou
+7419 1989 fall 50 1500 Wrestler Gundan Seisenshi Robin Jr.
+820 1989 winter 110 1560 Ginga Eiyuu Densetsu
+3837 1989 winter 45 1440 Mashin Eiyuuden Wataru
+949 1989 winter 6 1800 Top wo Nerae! Gunbuster
+1254 1989 winter 114 1440 Saint Seiya
+82 1989 winter 6 1640 Mobile Suit Gundam 0080: War in the Pocket
+9691 1989 winter 6 1530 Kyomu Senshi Miroku
+2471 1989 winter 1787 660 Doraemon (1979)
+5462 1989 winter 6 120 Top wo Nerae! Kagaku Kouza
+924 1989 winter 43 1440 Transformers: Choujin Master Force
+1264 1989 winter 39 1420 Yoroiden Samurai Troopers
+2696 1989 winter 2 3420 Crusher Joe OVA

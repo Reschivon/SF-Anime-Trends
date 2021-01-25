@@ -1,0 +1,414 @@
+28977 2015 spring 51 1440 Gintama
+10937 2015 spring 6 4268 Mobile Suit Gundam: The Origin
+27775 2015 spring 13 1440 Plastic Memories
+8687 2015 spring 0 1500 Doraemon (2005)
+24893 2015 spring 12 1460 Sidonia no Kishi: Daikyuu Wakusei Seneki
+24405 2015 spring 73 1395 World Trigger
+28215 2015 spring 13 1440 Saint Seiya: Soul of Gold
+28149 2015 spring 35 526 Nihon Animator Mihonichi
+23319 2015 spring 2 3195 Suisei no Gargantia: Meguru Kouro, Haruka
+29325 2015 spring 10 1445 Koukaku Kidoutai Arise: Alternative Architecture
+28791 2015 spring 12 1420 Gunslinger Stratos The Animation
+30875 2015 spring 44 620 Washimo 3rd Season
+39778 2015 spring 3 1220 Skyers 5 EX
+34673 2015 spring 12 1441 Shin Skyers 5 EX
+29893 2015 summer 3 1287 Aria the Avvenire
+24405 2015 summer 73 1395 World Trigger
+28977 2015 summer 51 1440 Gintama
+21039 2015 summer 12 1380 Gatchaman Crowds Insight
+30383 2015 summer 13 1470 ClassroomCrisis
+21573 2015 summer 13 1419 Senki Zesshou Symphogear GX
+27631 2015 summer 13 1435 God Eater
+28979 2015 summer 12 1380 To LOVE-Ru Darkness 2nd
+8687 2015 summer 0 1500 Doraemon (2005)
+23725 2015 summer 3 1710 Strike Witches: Operation Victory Arrow
+28149 2015 summer 35 526 Nihon Animator Mihonichi
+29876 2015 summer 6 960 Chu Feng: B.E.E
+30382 2015 summer 26 1450 Aquarion Logos
+30875 2015 summer 44 620 Washimo 3rd Season
+38136 2015 summer 52 900 Zhu Zhu Xia: Zhong Ji Jue Zhan - Qian Ye Pian
+28977 2015 fall 51 1440 Gintama
+29893 2015 fall 3 1287 Aria the Avvenire
+10937 2015 fall 6 4268 Mobile Suit Gundam: The Origin
+30276 2015 fall 12 1460 One Punch Man
+31973 2015 fall 4 1104 Mobile Suit Gundam Thunderbolt
+28149 2015 fall 35 526 Nihon Animator Mihonichi
+32151 2015 fall 4 480 Senki Zesshou Symphogear GX: Senki Zesshou Shinai Symphogear
+8687 2015 fall 0 1500 Doraemon (2005)
+30549 2015 fall 13 1440 Soukyuu no Fafner: Dead Aggressor - Exodus 2nd Season
+24405 2015 fall 73 1395 World Trigger
+27829 2015 fall 24 1420 Heavy Object
+27631 2015 fall 13 1435 God Eater
+31772 2015 fall 6 750 One Punch Man Specials
+28621 2015 fall 11 1380 Subete ga F ni Naru
+31251 2015 fall 25 1470 Mobile Suit Gundam: Iron-Blooded Orphans
+30544 2015 fall 12 1420 Gakusen Toshi Asterisk
+30721 2015 fall 13 470 Hacka Doll The Animation
+31147 2015 fall 13 1450 Concrete Revolutio: Choujin Gensou
+30382 2015 fall 26 1450 Aquarion Logos
+31050 2015 fall 3 1880 Cyborg 009 VS Devilman
+29876 2015 fall 6 960 Chu Feng: B.E.E
+39034 2015 fall 13 300 The Planet of Stray Cats
+38127 2015 fall 52 900 Zhu Zhu Xia: Wu Ling Shou Wei Zhe
+40377 2015 fall 8 710 Robot Atom
+10937 2015 winter 6 4268 Mobile Suit Gundam: The Origin
+22535 2015 winter 24 1380 Kiseijuu: Sei no Kakuritsu
+23067 2015 winter 52 1440 Tenkai Knights
+25731 2015 winter 25 1380 Cross Ange: Tenshi to Ryuu no Rondo
+24405 2015 winter 73 1395 World Trigger
+27655 2015 winter 12 1420 Aldnoah.Zero 2nd Season
+21511 2015 winter 12 1480 Kantai Collection: KanColle
+17080 2015 winter 13 1440 Soukyuu no Fafner: Dead Aggressor - Exodus
+23725 2015 winter 3 1710 Strike Witches: Operation Victory Arrow
+8687 2015 winter 0 1500 Doraemon (2005)
+28149 2015 winter 35 526 Nihon Animator Mihonichi
+24625 2015 winter 25 1500 Gundam Build Fighters Try
+23259 2015 winter 26 1464 Gundam: G no Reconguista
+28595 2015 winter 52 1500 Pac-World
+29099 2015 winter 24 620 Washimo 2nd Season
+33279 2015 winter 2 215 Nanocore: NG Scenes - Nano's Daily Life
+38126 2015 winter 52 900 Zhu Zhu Xia: Bai Bian Lian Meng
+29893 2016 spring 3 1287 Aria the Avvenire
+32792 2016 spring 22 1430 Mobile Suit Gundam Unicorn RE:0096
+10937 2016 spring 6 4268 Mobile Suit Gundam: The Origin
+8687 2016 spring 0 1500 Doraemon (2005)
+31772 2016 spring 6 750 One Punch Man Specials
+32245 2016 spring 26 1440 Kuromukuro
+31798 2016 spring 12 1440 Kiznaiver
+28013 2016 spring 26 1420 Macross 
+37026 2016 spring 6 180 Koukaku no Pandora: Pandoradio
+32313 2016 spring 11 1440 Concrete Revolutio: Choujin Gensou - The Last Song
+31049 2016 spring 51 1440 Beyblade Burst
+31338 2016 spring 12 1440 Hundred
+31737 2016 spring 12 1440 Gakusen Toshi Asterisk 2nd Season
+31430 2016 spring 13 1440 Terra Formars: Revenge
+33871 2016 spring 13 15 Estima: Sense of Wonder
+33099 2016 spring 44 600 Washimo 4th Season
+38128 2016 spring 52 900 Zhu Zhu Xia: Guang Ming Shou Wei Zhe
+34664 2016 spring 26 1440 Capsule Boy
+32568 2016 spring 47 1440 Kamiwaza Wanda
+33704 2016 spring 32 746 AOTU Shijie
+33271 2016 spring 10 1380 Nanocore 2nd Season
+8687 2016 summer 0 1500 Doraemon (2005)
+32792 2016 summer 22 1430 Mobile Suit Gundam Unicorn RE:0096
+33341 2016 summer 12 1440 Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi
+32301 2016 summer 12 1440 Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd
+31049 2016 summer 51 1440 Beyblade Burst
+32245 2016 summer 26 1440 Kuromukuro
+32729 2016 summer 13 1480 Orange
+28013 2016 summer 26 1420 Macross 
+33091 2016 summer 5 1088 Planetarian: Chiisana Hoshi no Yume
+32961 2016 summer 13 1440 Regalia: The Three Sacred Stars
+34179 2016 summer 2 103 Ima no Watashi ni Dekiru Koto...
+33113 2016 summer 12 1440 Scared Rider Xechs
+33806 2016 summer 9 300 Macross : Delta Shougekijou
+33099 2016 summer 44 600 Washimo 4th Season
+34237 2016 summer 0 210 Miraijin Go Home
+34664 2016 summer 26 1440 Capsule Boy
+38128 2016 summer 52 900 Zhu Zhu Xia: Guang Ming Shou Wei Zhe
+32568 2016 summer 47 1440 Kamiwaza Wanda
+10937 2016 fall 6 4268 Mobile Suit Gundam: The Origin
+33051 2016 fall 25 1480 Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season
+32979 2016 fall 13 1421 Flip Flappers
+8687 2016 fall 0 1500 Doraemon (2005)
+33434 2016 fall 50 1429 Heybot!
+31049 2016 fall 51 1440 Beyblade Burst
+33041 2016 fall 12 1420 Bubuki Buranki: Hoshi no Kyojin
+33377 2016 fall 24 1390 Trickster: Edogawa Ranpo "Shounen Tanteidan" yori
+32962 2016 fall 12 1440 Occultic;Nine
+32866 2016 fall 12 1420 Brave Witches
+32961 2016 fall 13 1440 Regalia: The Three Sacred Stars
+31861 2016 fall 4 1740 Tenchi Muyou! Ryououki 4th Season
+33314 2016 fall 52 1465 Digimon Universe: Appli Monsters
+34664 2016 fall 26 1440 Capsule Boy
+38135 2016 fall 26 810 Zhu Zhu Xia: Fan Wai - Pin Zhuang Tegong Dui
+38129 2016 fall 52 900 Zhu Zhu Xia: Meng Xiang Shou Wei Zhe
+32568 2016 fall 47 1440 Kamiwaza Wanda
+28977 2016 winter 51 1440 Gintama
+31711 2016 winter 2 1424 To LOVE-Ru Darkness 2nd Specials
+29893 2016 winter 3 1287 Aria the Avvenire
+31772 2016 winter 6 750 One Punch Man Specials
+31251 2016 winter 25 1470 Mobile Suit Gundam: Iron-Blooded Orphans
+31402 2016 winter 5 211 Soul Worker: Your Destiny Awaits
+31380 2016 winter 3 1336 To LOVE-Ru Darkness 2nd OVA
+31452 2016 winter 12 1440 Norn9: Norn+Nonet
+32023 2016 winter 12 1440 Bubuki Buranki
+31223 2016 winter 12 1440 Phantasy Star Online 2 The Animation
+31790 2016 winter 12 1440 Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari
+30806 2016 winter 12 1380 Schwarzesmarken
+24405 2016 winter 73 1395 World Trigger
+27631 2016 winter 13 1435 God Eater
+31163 2016 winter 12 1460 Dimension W
+28391 2016 winter 12 1440 Ao no Kanata no Four Rhythm
+27829 2016 winter 24 1420 Heavy Object
+8687 2016 winter 0 1500 Doraemon (2005)
+32214 2016 winter 12 1440 Koukaku no Pandora
+31710 2016 winter 12 1380 Divine Gate
+32410 2016 winter 5 180 Dimension W: W no Tobira Online - Rose no Onayami Soudanshitsu
+33757 2016 winter 13 900 Shuang Yue Zhi Cheng
+8687 2017 spring 0 1500 Doraemon (2005)
+33502 2017 spring 12 1440 Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?
+34561 2017 spring 22 1440 Re:Creators
+33434 2017 spring 50 1429 Heybot!
+36782 2017 spring 5 159 Kakuchou Shoujo-kei Trinary: Ex.MV
+33371 2017 spring 12 1500 Atom: The Beginning
+36666 2017 spring 13 1320 An Ling Yu Shi Di Qi
+33797 2017 spring 12 1440 ID-0
+33314 2017 spring 52 1465 Digimon Universe: Appli Monsters
+34006 2017 spring 34 450 Kakuchou Shoujo-kei Trinary
+34866 2017 spring 120 1459 YuGiOh! VRAINS
+32407 2017 spring 12 1450 Clockwork Planet
+32032 2017 spring 12 1430 Seikaisuru Kado
+34799 2017 spring 36 726 PriPri Chii-chan!!
+34427 2017 spring 12 1410 Frame Arms Girl
+35255 2017 spring 2 960 Soutai Sekai
+34901 2017 spring 51 1440 Beyblade Burst God
+35224 2017 spring 6 180 Mobile Suit Gundam: Twilight Axis
+35295 2017 spring 44 600 Washimo 5th Season
+38131 2017 spring 124 900 Zhu Zhu Xia: Chao Xing Meng Chong
+34928 2017 spring 12 180 Akindo Sei no Little Peso
+35586 2017 spring 3 997 Jinryoku Senkan!? Shiokaze Sawakaze
+34741 2017 spring 37 1474 Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu (TV)
+37643 2017 spring 33 900 Xiong Bing Lian
+34599 2017 summer 13 1527 Made in Abyss
+34208 2017 summer 2 1515 Escha Chron
+35567 2017 summer 5 661 Gundam Build Fighters: Battlogue
+34901 2017 summer 51 1440 Beyblade Burst God
+8687 2017 summer 0 1500 Doraemon (2005)
+33314 2017 summer 52 1465 Digimon Universe: Appli Monsters
+34799 2017 summer 36 726 PriPri Chii-chan!!
+34561 2017 summer 22 1440 Re:Creators
+32836 2017 summer 13 1440 Senki Zesshou Symphogear AXZ
+34604 2017 summer 3 1345 UQ Holder!: Mahou Sensei Negima! 2 (OVA)
+33184 2017 summer 12 1431 Battle Girl High School
+34866 2017 summer 120 1459 YuGiOh! VRAINS
+33434 2017 summer 50 1429 Heybot!
+35730 2017 summer 12 210 Musekinin GalaxyTylor
+35295 2017 summer 44 600 Washimo 5th Season
+38131 2017 summer 124 900 Zhu Zhu Xia: Chao Xing Meng Chong
+34741 2017 summer 37 1474 Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu (TV)
+36164 2017 summer 12 840 Qiang Niang
+36571 2017 summer 20 900 Nanocore 3rd Season
+10937 2017 fall 6 4268 Mobile Suit Gundam: The Origin
+35843 2017 fall 13 1430 Gintama.: Porori-hen
+35838 2017 fall 12 1420 Shoujo Shuumatsu Ryokou
+34542 2017 fall 11 1369 Inuyashiki
+8687 2017 fall 0 1500 Doraemon (2005)
+36692 2017 fall 4 450 Senki Zesshou Symphogear AXZ: Senki Zesshou Shinai Symphogear
+34799 2017 fall 36 726 PriPri Chii-chan!!
+36166 2017 fall 3 150 Fireball Humorous
+39231 2017 fall 12 1260 Qiang Shen Ji
+34866 2017 fall 120 1459 YuGiOh! VRAINS
+35250 2017 fall 12 1420 Urahara
+33478 2017 fall 12 1425 UQ Holder!: Mahou Sensei Negima! 2
+33027 2017 fall 12 1375 Infini-T Force
+34901 2017 fall 51 1440 Beyblade Burst God
+35295 2017 fall 44 600 Washimo 5th Season
+38131 2017 fall 124 900 Zhu Zhu Xia: Chao Xing Meng Chong
+36866 2017 fall 9 1039 LayereD Stories Zero
+34741 2017 fall 37 1474 Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu (TV)
+36740 2017 fall 52 1470 Dragon Egg
+36345 2017 fall 20 720 AOTU Shijie 2
+8687 2017 winter 0 1500 Doraemon (2005)
+34391 2017 winter 4 1260 Mobile Suit Gundam Thunderbolt 2nd Season
+33064 2017 winter 26 1500 Uchuu Senkan Yamato 2202: Ai no Senshi-tachi
+34096 2017 winter 12 1440 Gintama.
+33051 2017 winter 25 1480 Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season
+34502 2017 winter 10 120 Inazma Delivery
+33434 2017 winter 50 1429 Heybot!
+35286 2017 winter 5 62 Henkei Shoujo
+34289 2017 winter 13 1440 Schoolgirl Strikers: Animation Channel
+31049 2017 winter 51 1440 Beyblade Burst
+30485 2017 winter 12 1420 ChoS;Child
+33377 2017 winter 24 1390 Trickster: Edogawa Ranpo "Shounen Tanteidan" yori
+32878 2017 winter 12 1440 lDLIVE
+34776 2017 winter 5 283 Eureka Seven AO: One More Time - Lord Don't Slow Me Down
+33314 2017 winter 52 1465 Digimon Universe: Appli Monsters
+32568 2017 winter 47 1440 Kamiwaza Wanda
+34488 2017 winter 10 300 Gan Gan Ganko-chan
+31433 2018 spring 12 1500 Ginga Eiyuu Densetsu: Die Neue These - Kaikou
+8687 2018 spring 0 1500 Doraemon (2005)
+10937 2018 spring 6 4268 Mobile Suit Gundam: The Origin
+30484 2018 spring 23 1420 Steins;Gate 0
+36296 2018 spring 12 1420 Hinamatsuri
+36563 2018 spring 13 1465 Megalo Box
+37283 2018 spring 51 1440 Beyblade Burst Chouzetsu
+36531 2018 spring 76 1453 Shinkansen Henkei Robo Shinkalion The Animation
+37265 2018 spring 8 355 God Eater Reso Nantoka Gekijou
+37866 2018 spring 3 420 Uchuu Senkan Tiramis Specials
+34866 2018 spring 120 1459 YuGiOh! VRAINS
+36475 2018 spring 12 1420 Sword Art Online Alternative: Gun Gale Online
+35849 2018 spring 24 1440 Darling in the FranXX
+37245 2018 spring 25 1480 Gundam Build Divers
+36516 2018 spring 20 1467 Beatless
+33531 2018 spring 26 1420 Juushinki Pandora
+36397 2018 spring 12 930 Shiyan Pin Jiating
+36267 2018 spring 13 420 Uchuu Senkan Tiramis
+37277 2018 spring 4 1440 Beatless Intermission
+33889 2018 spring 12 1430 Saredo Tsumibito wa Ryuu to Odoru
+36828 2018 spring 12 1422 Caligula (TV)
+36976 2018 spring 12 1431 Cutie Honey Universe
+37448 2018 spring 12 240 Ladyspo
+42149 2018 spring 12 1260 Qiang Shen Ji: Tegong Shijie Pian
+37630 2018 spring 42 600 Washimo 6th Season
+45444 2018 spring 13 900 Moshi Juexing Zhi Ruqin
+38138 2018 spring 104 900 Zhu Zhu Xia: Jing Qiu Xiao Yingxiong
+36740 2018 spring 52 1470 Dragon Egg
+36552 2018 spring 115 1440 Pikachin-Kit
+37491 2018 summer 14 1440 Gintama.: Shirogane no Tamashii-hen - Kouhan-sen
+8687 2018 summer 0 1500 Doraemon (2005)
+36531 2018 summer 76 1453 Shinkansen Henkei Robo Shinkalion The Animation
+38020 2018 summer 4 1440 Beatless Final Stage
+30484 2018 summer 23 1420 Steins;Gate 0
+37578 2018 summer 12 1426 Planet With
+39416 2018 summer 7 71 Kemurikusa (2018)
+34866 2018 summer 120 1459 YuGiOh! VRAINS
+33531 2018 summer 26 1420 Juushinki Pandora
+37245 2018 summer 25 1480 Gundam Build Divers
+33012 2018 summer 12 1420 Island
+36316 2018 summer 12 1445 Shichisei no Subaru
+37283 2018 summer 51 1440 Beyblade Burst Chouzetsu
+37395 2018 summer 50 1491 Zoids Wild
+34532 2018 summer 2 1560 Terra Formars: Earth-hen
+37265 2018 summer 8 355 God Eater Reso Nantoka Gekijou
+38433 2018 summer 2 195 God Eater Reso Nantoka Gekijou: Episode EX
+38097 2018 summer 3 149 Hatachi no Ryouma with Kurofune-kun!
+38138 2018 summer 104 900 Zhu Zhu Xia: Jing Qiu Xiao Yingxiong
+37630 2018 summer 42 600 Washimo 6th Season
+36740 2018 summer 52 1470 Dragon Egg
+36552 2018 summer 115 1440 Pikachin-Kit
+8687 2018 fall 0 1500 Doraemon (2005)
+36531 2018 fall 76 1453 Shinkansen Henkei Robo Shinkalion The Animation
+37395 2018 fall 50 1491 Zoids Wild
+37283 2018 fall 51 1440 Beyblade Burst Chouzetsu
+37496 2018 fall 13 1450 Double Decker! Doug & Kirill
+34866 2018 fall 120 1459 YuGiOh! VRAINS
+37561 2018 fall 12 1420 Akanesasu Shoujo
+37438 2018 fall 11 1380 Ingress the Animation
+36432 2018 fall 26 1420 Toaru Majutsu no Index III
+35847 2018 fall 12 1420 SSSS.Gridman
+37988 2018 fall 13 420 Uchuu Senkan Tiramis II
+36000 2018 fall 12 1420 Sora to Umi no Aida
+38628 2018 fall 15 1440 Hero Mask
+35835 2018 fall 12 1420 RErideD: Tokigoe no Derrida
+38545 2018 fall 2 60 Han Solo/Star Wars Story
+37630 2018 fall 42 600 Washimo 6th Season
+38138 2018 fall 104 900 Zhu Zhu Xia: Jing Qiu Xiao Yingxiong
+38705 2018 fall 20 120 Kagaku Ninya-tai Gatchanyan
+36740 2018 fall 52 1470 Dragon Egg
+38365 2018 fall 50 180 Aigan Kaijuu
+36552 2018 fall 115 1440 Pikachin-Kit
+36838 2018 winter 12 1440 Gintama.: Shirogane no Tamashii-hen
+8687 2018 winter 0 1500 Doraemon (2005)
+34901 2018 winter 51 1440 Beyblade Burst God
+36894 2018 winter 10 120 Inazma Delivery: Dougyousha Attack-hen
+36531 2018 winter 76 1453 Shinkansen Henkei Robo Shinkalion The Animation
+36039 2018 winter 12 1466 A.I.C.O.: Incarnation
+34964 2018 winter 12 1447 Killing Bites
+35849 2018 winter 24 1440 Darling in the FranXX
+34866 2018 winter 120 1459 YuGiOh! VRAINS
+36516 2018 winter 20 1467 Beatless
+37277 2018 winter 4 1440 Beatless Intermission
+38140 2018 winter 26 900 Zhu Zhu Xia: Fan Wai - Zhi Huanqiu Riji
+37244 2018 winter 8 300 Gan Gan Ganko-chan 2nd Season
+37242 2018 winter 2 253 Hoshi to Tsubasa no Paradox
+36740 2018 winter 52 1470 Dragon Egg
+36856 2018 winter 8 900 Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu (ONA)
+36552 2018 winter 115 1440 Pikachin-Kit
+39592 2019 spring 13 1500 Mobile Suit Gundam: The Origin - Advent of the Red Comet
+8687 2019 spring 0 1500 Doraemon (2005)
+36871 2019 spring 13 1380 Ultraman
+38004 2019 spring 12 820 Strike Witches: 501 Butai Hasshin Shimasu!
+34649 2019 spring 3 1680 Soukyuu no Fafner: Dead Aggressor - The Beyond
+38916 2019 spring 3 1440 Battle Spirits: Saga Brave
+36531 2019 spring 76 1453 Shinkansen Henkei Robo Shinkalion The Animation
+37435 2019 spring 24 1372 Carole & Tuesday
+34620 2019 spring 26 1420 Kono Yo no Hate de Koi wo Utau Shoujo YU-NO
+34134 2019 spring 12 1430 One Punch Man 2nd Season
+38735 2019 spring 12 1500 7 Seeds
+34866 2019 spring 120 1459 YuGiOh! VRAINS
+38707 2019 spring 12 1440 RobiHachi
+39282 2019 spring 52 855 Beyblade Burst Gachi
+37395 2019 spring 50 1491 Zoids Wild
+42132 2019 spring 12 1200 Beng Huai Xinghe
+39528 2019 spring 40 620 Washimo 7th Season
+39798 2019 spring 104 828 Zhu Zhu Xia: Konglong Riji
+39012 2019 spring 26 1440 Capsule Boy 2: Ujuleul Jikyeola
+41080 2019 spring 30 1020 Jue Ming Xiang Ying
+38365 2019 spring 50 180 Aigan Kaijuu
+36552 2019 spring 115 1440 Pikachin-Kit
+39592 2019 summer 13 1500 Mobile Suit Gundam: The Origin - Advent of the Red Comet
+39198 2019 summer 12 1680 Kanata no Astra
+32843 2019 summer 13 1420 Senki Zesshou Symphogear XV
+38691 2019 summer 24 1440 Dr. Stone
+37435 2019 summer 24 1372 Carole & Tuesday
+39675 2019 summer 6 1800 Ling Long: Incarnation
+36369 2019 summer 4 1500 Ginga Eiyuu Densetsu: Die Neue These - Seiran 1
+40151 2019 summer 24 220 Shaonu Qianxian: Renxing Xiao Juchang
+39282 2019 summer 52 855 Beyblade Burst Gachi
+38940 2019 summer 12 1427 Cop Craft
+34620 2019 summer 26 1420 Kono Yo no Hate de Koi wo Utau Shoujo YU-NO
+34866 2019 summer 120 1459 YuGiOh! VRAINS
+8687 2019 summer 0 1500 Doraemon (2005)
+40154 2019 summer 9 1483 Hero Mask (2019)
+40295 2019 summer 3 602 Another World
+40256 2019 summer 12 1440 Cannon Busters
+36040 2019 summer 12 1422 Knights of the Zodiac: Saint Seiya
+40142 2019 summer 5 390 Taka no Tsume Yoshida-kun Batten File: Natsuyasumi Mystery Adventure
+45445 2019 summer 13 900 Moshi Juexing Zhi Ruqin 2nd Season
+39528 2019 summer 40 620 Washimo 7th Season
+39798 2019 summer 104 828 Zhu Zhu Xia: Konglong Riji
+40876 2019 summer 12 900 Ai Zai Xi Yuan Qian
+38365 2019 summer 50 180 Aigan Kaijuu
+36552 2019 summer 115 1440 Pikachin-Kit
+36371 2019 fall 4 1500 Ginga Eiyuu Densetsu: Die Neue These - Seiran 3
+36370 2019 fall 4 1500 Ginga Eiyuu Densetsu: Die Neue These - Seiran 2
+38691 2019 fall 24 1440 Dr. Stone
+39282 2019 fall 52 855 Beyblade Burst Gachi
+40192 2019 fall 13 1470 Gundam Build Divers Re:Rise
+40823 2019 fall 12 960 Ni Zhuan Ci Yuan: AI Jue Qi
+40109 2019 fall 3 1500 Soukyuu no Fafner: Dead Aggressor - The Beyond Part 2
+39705 2019 fall 6 720 One Punch Man 2nd Season Specials
+38328 2019 fall 12 1420 Azur Lane
+39539 2019 fall 12 1450 No Guns Life
+39491 2019 fall 8 2750 Psycho-Pass 3
+40178 2019 fall 12 325 Null Peta
+39506 2019 fall 25 1438 Phantasy Star Online 2: Episode Oracle
+8687 2019 fall 0 1500 Doraemon (2005)
+39574 2019 fall 12 1500 Levius
+37268 2019 fall 12 1440 Z/X: Code Reunion
+42151 2019 fall 12 1230 Qiang Shen Ji: Xuezu Mishi Pian
+41635 2019 fall 104 930 Zhu Zhu Xia: Jing Su Xiao Yingxiong
+40768 2019 fall 0 240 Gaina Tamager
+39528 2019 fall 40 620 Washimo 7th Season
+40367 2019 fall 52 660 Go! Go! Atom
+40166 2019 fall 50 1328 Zoids Wild Zero
+40994 2019 fall 12 1140 Ni Zai Xing Guang Shen Chu
+36552 2019 fall 115 1440 Pikachin-Kit
+37779 2019 winter 12 1375 Yakusoku no Neverland
+36531 2019 winter 76 1453 Shinkansen Henkei Robo Shinkalion The Animation
+8687 2019 winter 0 1500 Doraemon (2005)
+33064 2019 winter 26 1500 Uchuu Senkan Yamato 2202: Ai no Senshi-tachi
+38719 2019 winter 26 600 Fight League: Gear Gadget Generators
+39674 2019 winter 3 160 Gundam vs Hello Kitty
+37395 2019 winter 50 1491 Zoids Wild
+38837 2019 winter 20 221 Puso Ni Comi
+39115 2019 winter 4 420 Uchuu Senkan Tiramis II Specials
+34866 2019 winter 120 1459 YuGiOh! VRAINS
+36633 2019 winter 12 1440 Date A Live III
+37998 2019 winter 12 1420 Girly Air Force
+38895 2019 winter 3 1450 Double Decker! Doug & Kirill: Extra
+36432 2019 winter 26 1420 Toaru Majutsu no Index III
+37436 2019 winter 12 1372 Revisions
+37283 2019 winter 51 1440 Beyblade Burst Chouzetsu
+37302 2019 winter 12 1421 Kemurikusa (TV)
+38157 2019 winter 12 1440 Circlet Princess
+37374 2019 winter 12 1465 Pastel Memories
+39711 2019 winter 3 90 Bumblebee Hajimete no Chikyuu Seikatsu
+38138 2019 winter 104 900 Zhu Zhu Xia: Jing Qiu Xiao Yingxiong
+39410 2019 winter 0 1080 AOTU Shijie 3
+39012 2019 winter 26 1440 Capsule Boy 2: Ujuleul Jikyeola
+39222 2019 winter 0 180 Move to the Future
+36740 2019 winter 52 1470 Dragon Egg
+38365 2019 winter 50 180 Aigan Kaijuu
+36552 2019 winter 115 1440 Pikachin-Kit
